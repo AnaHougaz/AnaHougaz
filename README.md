@@ -24,6 +24,6 @@ Computer Vision | UAV Systems | Photogrammetry | Deep Learning
 - Project X (link)
 - Project Y (link)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaHougaz&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnaHougaz&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaHougaz&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaHougaz&layout=compact)
