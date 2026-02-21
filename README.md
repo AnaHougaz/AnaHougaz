@@ -2,7 +2,7 @@
 
 🎓 Control and Automation Engineering Student at UFBA
 
-🔬 Research in Computer Vision applied to UAVs and Medical images since 2021
+Computer Vision | UAV Systems | Photogrammetry | Deep Learning 
 
 <h3>Languages & Tools that I work</h3>
 
