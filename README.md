@@ -19,10 +19,5 @@ Computer Vision | UAV Systems | Photogrammetry | Deep Learning
 - Photogrammetry
 - Deep Learning applied to Engineering
 
-
-## 🚀 Featured Projects
-- Project X (link)
-- Project Y (link)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnaHougaz)
 
